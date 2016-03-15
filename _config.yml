@@ -1,6 +1,6 @@
 name: Nusrat Kamal Siddiqui
 favicon: null
-layout_spectrum: 0.8470105766318738
+layout_spectrum: 0.09927
 typography_spectrum: 0.4646270079538226
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.23910024692304432
+  brandStrength: 0.75
   lightness: 0.9199143743608147
   saturation: 0.9820683072321117
   rhythmicContrast: 0.716692550573498
